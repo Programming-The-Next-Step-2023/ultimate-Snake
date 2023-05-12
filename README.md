@@ -2,6 +2,21 @@
 This is going to be ~the ultimate~ snake game 
 
 Project description:
-I will create a game, based on the same principle and following the same rules as the classic game (originally from nokia I believe) known as "snake". 
+I will create a game, based on the same principle and following the same rules as the classic game known as "snake" (originally from nokia I believe). 
 
-Details such as colours, speed variations and game over rules still need to be added (not sure how specific this first description is supposed to be since I assume everyone is familiar with the game). 
+What the game does:
+It offers a fun time
+
+Why the game is useful:
+Useful for me to learn some coding using python
+Useful for the community to play a good ol' game of snake
+
+How to get started:
+... First, I need to get started 
+
+Where to get help:
+...remember, Google is your friend
+
+Who are the contributers:
+Pia Koch (so far)
+

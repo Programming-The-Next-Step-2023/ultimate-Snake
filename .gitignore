@@ -1,0 +1,3 @@
+/my-game/idea.idea
+# or if more files: change above to *.idea than all files names X.idea will be ignored by git
+
